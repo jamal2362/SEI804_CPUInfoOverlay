@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/settings">
+
+        <Preference
+            android:key="overlay_options_activity"
+            android:title="@string/overlay_options"
+            android:icon="@drawable/ic_overlay_24dp"/>
+
+        <Preference
+            android:key="background_options_activity"
+            android:title="@string/background_options"
+            android:icon="@drawable/ic_color_background_left_24dp"/>
+
+        <Preference
+            android:key="distance_options_activity"
+            android:title="@string/distance_options"
+            android:icon="@drawable/ic_middle_24dp"/>
+
+        <Preference
+            android:key="corner_options_activity"
+            android:title="@string/corner_options"
+            android:icon="@drawable/ic_rounded_corners_overall_24dp"/>
+
+        <Preference
+            android:key="text_options_activity"
+            android:title="@string/text_options"
+            android:icon="@drawable/ic_font_24dp"/>
+
+        <Preference
+            android:key="replacement_options_activity"
+            android:title="@string/replacement_options"
+            android:icon="@drawable/ic_renew_24dp"/>
+
+        <Preference
+            android:key="hide_options_activity"
+            android:title="@string/hide_options"
+            android:icon="@drawable/ic_visibility_off_24dp"/>
+
+        <Preference
+            android:key="about_options_activity"
+            android:title="@string/about"
+            android:icon="@drawable/ic_info_24dp"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>

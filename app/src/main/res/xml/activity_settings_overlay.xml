@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/overlay_options">
+
+        <ListPreference
+            android:defaultValue="0"
+            android:dialogTitle="@string/select_button"
+            android:entries="@array/key_code_labels"
+            android:entryValues="@array/key_codes"
+            android:icon="@drawable/ic_remote_24dp"
+            android:key="selected_code_key"
+            android:summary="@string/overlay_button_summary"
+            android:title="@string/overlay_button" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_long_press_24dp"
+            android:key="long_press_key"
+            android:summary="@string/long_press_summary"
+            android:title="@string/long_press" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

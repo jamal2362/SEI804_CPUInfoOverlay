@@ -1,0 +1,153 @@
+<resources>
+    <string-array name="key_code_labels">
+        <item>Lesezeichen</item>
+        <item>Programmführer (EPG)</item>
+        <item>Rote Farbtaste</item>
+        <item>Grüne Farbtaste</item>
+        <item>Gelbe Farbtaste</item>
+        <item>Blaue Farbtaste</item>
+        <item>Ziffer 0</item>
+        <item>Ziffer 1</item>
+        <item>Ziffer 2</item>
+        <item>Ziffer 3</item>
+        <item>Ziffer 4</item>
+        <item>Ziffer 5</item>
+        <item>Ziffer 6</item>
+        <item>Ziffer 7</item>
+        <item>Ziffer 8</item>
+        <item>Ziffer 9</item>
+        <item>Keine Taste</item>
+    </string-array>
+
+    <string-array name="text_color_left_options">
+        <item>Weiß</item>
+        <item>Rot</item>
+        <item>Rosa</item>
+        <item>Lila</item>
+        <item>Dunkles Lila</item>
+        <item>Indigo</item>
+        <item>Blau</item>
+        <item>Hellblau</item>
+        <item>Türkis</item>
+        <item>Türkisblau</item>
+        <item>Grün</item>
+        <item>Hellgrün</item>
+        <item>Gelbgrün</item>
+        <item>Gelb</item>
+        <item>Bernstein</item>
+        <item>Orange</item>
+        <item>Dunkles Orange</item>
+        <item>Braun</item>
+        <item>Grau</item>
+        <item>Blaugrau</item>
+        <item>Gold</item>
+        <item>Silber</item>
+        <item>Roségold</item>
+        <item>Mint Grün</item>
+        <item>Koralle</item>
+        <item>Kastanienbraun</item>
+        <item>Marineblau</item>
+        <item>Waldgrün</item>
+        <item>Schwarz</item>
+    </string-array>
+
+    <string-array name="text_color_right_options">
+        <item>Weiß</item>
+        <item>Rot</item>
+        <item>Rosa</item>
+        <item>Lila</item>
+        <item>Dunkles Lila</item>
+        <item>Indigo</item>
+        <item>Blau</item>
+        <item>Hellblau</item>
+        <item>Türkis</item>
+        <item>Türkisblau</item>
+        <item>Grün</item>
+        <item>Hellgrün</item>
+        <item>Gelbgrün</item>
+        <item>Gelb</item>
+        <item>Bernstein</item>
+        <item>Orange</item>
+        <item>Dunkles Orange</item>
+        <item>Braun</item>
+        <item>Grau</item>
+        <item>Blaugrau</item>
+        <item>Gold</item>
+        <item>Silber</item>
+        <item>Roségold</item>
+        <item>Mint Grün</item>
+        <item>Koralle</item>
+        <item>Kastanienbraun</item>
+        <item>Marineblau</item>
+        <item>Waldgrün</item>
+        <item>Schwarz</item>
+    </string-array>
+
+    <string-array name="text_align_left_options">
+        <item>Linksbündig</item>
+        <item>Zentriert</item>
+        <item>Rechtsbündig</item>
+    </string-array>
+
+    <string-array name="text_align_right_options">
+        <item>Linksbündig</item>
+        <item>Zentriert</item>
+        <item>Rechtsbündig</item>
+    </string-array>
+
+    <string-array name="background_color_left_options">
+        <item>Schwarz</item>
+        <item>Weiß</item>
+        <item>Rot</item>
+        <item>Rosa</item>
+        <item>Lila</item>
+        <item>Dunkles Lila</item>
+        <item>Indigo</item>
+        <item>Blau</item>
+        <item>Hellblau</item>
+        <item>Türkis</item>
+        <item>Türkisblau</item>
+        <item>Grün</item>
+        <item>Hellgrün</item>
+        <item>Gelbgrün</item>
+        <item>Gelb</item>
+        <item>Bernstein</item>
+        <item>Orange</item>
+        <item>Dunkles Orange</item>
+        <item>Braun</item>
+        <item>Grau</item>
+        <item>Blaugrau</item>
+    </string-array>
+
+    <string-array name="background_color_right_options">
+        <item>Schwarz</item>
+        <item>Weiß</item>
+        <item>Rot</item>
+        <item>Rosa</item>
+        <item>Lila</item>
+        <item>Dunkles Lila</item>
+        <item>Indigo</item>
+        <item>Blau</item>
+        <item>Hellblau</item>
+        <item>Türkis</item>
+        <item>Türkisblau</item>
+        <item>Grün</item>
+        <item>Hellgrün</item>
+        <item>Gelbgrün</item>
+        <item>Gelb</item>
+        <item>Bernstein</item>
+        <item>Orange</item>
+        <item>Dunkles Orange</item>
+        <item>Braun</item>
+        <item>Grau</item>
+        <item>Blaugrau</item>
+    </string-array>
+
+    <string-array name="cpu_clock_options">
+        <item>%</item>
+        <item>Aktuelle MHz</item>
+        <item>Aktuelle MHz + (%)</item>
+        <item>Aktuelle MHz + Maximale MHz</item>
+        <item>Aktuelle MHz + Maximale MHz + (%)</item>
+    </string-array>
+</resources>

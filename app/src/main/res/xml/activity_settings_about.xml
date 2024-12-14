@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/about">
+
+        <Preference
+            android:icon="@drawable/ic_remote_24dp"
+            android:key="pref_version_key"
+            android:summary="Link"
+            android:title="Version" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

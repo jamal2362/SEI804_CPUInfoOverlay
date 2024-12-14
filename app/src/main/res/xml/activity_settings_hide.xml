@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/hide_options">
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_hide_overlay_24dp"
+            android:key="hide_left_overlay_key"
+            android:summary="@string/hide_the_left_overlay_completely"
+            android:title="@string/hide_left_overlay" />
+
+    </PreferenceCategory>
+    <PreferenceCategory>
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_title_24dp"
+            android:key="empty_title_key"
+            android:summary="@string/hide_all_titles_in_the_overlay"
+            android:title="@string/hide_all_titles" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_line_break_24dp"
+            android:key="empty_line_key"
+            android:summary="@string/hide_all_empty_lines_in_the_overlay"
+            android:title="@string/hide_all_empty_lines" />
+
+    </PreferenceCategory>
+    <PreferenceCategory>
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_strikethrough_24dp"
+            android:key="pref_hide_processor_title_key"
+            android:summary="@string/hide_processor_title_in_the_overlay"
+            android:title="@string/hide_processor_title" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_strikethrough_24dp"
+            android:key="pref_hide_cpu_temperature_key"
+            android:summary="@string/hide_cpu_temperature_in_the_overlay"
+            android:title="@string/hide_cpu_temperature" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_strikethrough_24dp"
+            android:key="pref_hide_cpu_clock_key"
+            android:summary="@string/hide_cpu_clock_in_the_overlay"
+            android:title="@string/hide_cpu_clock" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_strikethrough_24dp"
+            android:key="pref_hide_cpu_governor_key"
+            android:summary="@string/hide_cpu_governor_in_the_overlay"
+            android:title="@string/hide_cpu_governor" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_strikethrough_24dp"
+            android:key="pref_hide_empty_processor_other_line_key"
+            android:summary="@string/hide_empty_line_between_processor_und_other"
+            android:title="@string/hide_empty_line" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_strikethrough_24dp"
+            android:key="pref_hide_other_title_key"
+            android:summary="@string/hide_other_title_in_the_overlay"
+            android:title="@string/hide_other_title" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_strikethrough_24dp"
+            android:key="pref_hide_time_key"
+            android:summary="@string/hide_time_in_the_overlay"
+            android:title="@string/hide_time" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

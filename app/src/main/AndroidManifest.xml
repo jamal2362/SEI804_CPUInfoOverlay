@@ -1,0 +1,49 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jamal2367.cpuinfooverlay">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <service
+            android:name=".MainActivity"
+            android:exported="true"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService" />
+            </intent-filter>
+            <meta-data
+                android:name="android.accessibilityservice"
+                android:resource="@xml/accessibility_service_config" />
+        </service>
+
+        <activity android:name=".settings.SettingsActivity" />
+
+        <activity android:name=".settings.OverlaySettingsActivity" />
+
+        <activity android:name=".settings.BackgroundSettingsActivity" />
+
+        <activity android:name=".settings.DistanceSettingsActivity" />
+
+        <activity android:name=".settings.CornerSettingsActivity" />
+
+        <activity android:name=".settings.TextSettingsActivity" />
+
+        <activity android:name=".settings.ReplacementSettingsActivity" />
+
+        <activity android:name=".settings.HideSettingsActivity" />
+
+        <activity android:name=".settings.AboutSettingsActivity" />
+
+    </application>
+
+</manifest>

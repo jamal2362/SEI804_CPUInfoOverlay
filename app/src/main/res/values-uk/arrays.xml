@@ -1,0 +1,153 @@
+<resources>
+    <string-array name="key_code_labels">
+        <item>Кнопка Закладки</item>
+        <item>Кнопка Телегід</item>
+        <item>Червона кнопка</item>
+        <item>Зелена кнопка</item>
+        <item>Жовта кнопка</item>
+        <item>Синя кнопка</item>
+        <item>Кнопка 0</item>
+        <item>Кнопка 1</item>
+        <item>Кнопка 2</item>
+        <item>Кнопка 3</item>
+        <item>Кнопка 4</item>
+        <item>Кнопка 5</item>
+        <item>Кнопка 6</item>
+        <item>Кнопка 7</item>
+        <item>Кнопка 8</item>
+        <item>Кнопка 9</item>
+        <item>Немає</item>
+    </string-array>
+
+    <string-array name="text_color_left_options">
+        <item>Білий</item>
+        <item>Червоний</item>
+        <item>Рожевий</item>
+        <item>Фіолетовий</item>
+        <item>Темно-фіолетовий</item>
+        <item>Індиго</item>
+        <item>Синій</item>
+        <item>Світло-синій</item>
+        <item>Блакитний</item>
+        <item>Бірюзовий</item>
+        <item>Зелений</item>
+        <item>Світло-зелений</item>
+        <item>Лаймовий</item>
+        <item>Жовтий</item>
+        <item>Бурштиновий</item>
+        <item>Помаранчевий</item>
+        <item>Насичений помаранчевий</item>
+        <item>Коричневий</item>
+        <item>Сірий</item>
+        <item>Синьо-сірий</item>
+        <item>Золотий</item>
+        <item>Срібний</item>
+        <item>Рожево-золотий</item>
+        <item>М\'ятно-зелений</item>
+        <item>Кораловий</item>
+        <item>Бордовий</item>
+        <item>Темно-синій</item>
+        <item>Лісовий зелений</item>
+        <item>Чорний</item>
+    </string-array>
+
+    <string-array name="text_color_right_options">
+        <item>Білий</item>
+        <item>Червоний</item>
+        <item>Рожевий</item>
+        <item>Фіолетовий</item>
+        <item>Темно-фіолетовий</item>
+        <item>Індиго</item>
+        <item>Синій</item>
+        <item>Світло-синій</item>
+        <item>Блакитний</item>
+        <item>Бірюзовий</item>
+        <item>Зелений</item>
+        <item>Світло-зелений</item>
+        <item>Лаймовий</item>
+        <item>Жовтий</item>
+        <item>Бурштиновий</item>
+        <item>Помаранчевий</item>
+        <item>Насичений помаранчевий</item>
+        <item>Коричневий</item>
+        <item>Сірий</item>
+        <item>Синьо-сірий</item>
+        <item>Золотий</item>
+        <item>Срібний</item>
+        <item>Рожево-золотий</item>
+        <item>М\'ятно-зелений</item>
+        <item>Кораловий</item>
+        <item>Бордовий</item>
+        <item>Темно-синій</item>
+        <item>Лісовий зелений</item>
+        <item>Чорний</item>
+    </string-array>
+
+    <string-array name="text_align_left_options">
+        <item>Ліворуч</item>
+        <item>По центру</item>
+        <item>Праворуч</item>
+    </string-array>
+
+    <string-array name="text_align_right_options">
+        <item>Ліворуч</item>
+        <item>По центру</item>
+        <item>Праворуч</item>
+    </string-array>
+
+    <string-array name="background_color_left_options">
+        <item>Чорний</item>
+        <item>Білий</item>
+        <item>Червоний</item>
+        <item>Рожевий</item>
+        <item>Фіолетовий</item>
+        <item>Темно-фіолетовий</item>
+        <item>Індиго</item>
+        <item>Синій</item>
+        <item>Світло-синій</item>
+        <item>Блакитний</item>
+        <item>Бірюзовий</item>
+        <item>Зелений</item>
+        <item>Світло-зелений</item>
+        <item>Лаймовий</item>
+        <item>Жовтий</item>
+        <item>Бурштиновий</item>
+        <item>Помаранчевий</item>
+        <item>Насичений помаранчеви</item>
+        <item>Коричневий</item>
+        <item>Сірий</item>
+        <item>Синьо-сірий</item>
+    </string-array>
+
+    <string-array name="background_color_right_options">
+        <item>Чорний</item>
+        <item>Білий</item>
+        <item>Червоний</item>
+        <item>Рожевий</item>
+        <item>Фіолетовий</item>
+        <item>Темно-фіолетовий</item>
+        <item>Індиго</item>
+        <item>Синій</item>
+        <item>Світло-синій</item>
+        <item>Блакитний</item>
+        <item>Бірюзовий</item>
+        <item>Зелений</item>
+        <item>Світло-зелений</item>
+        <item>Лаймовий</item>
+        <item>Жовтий</item>
+        <item>Бурштиновий</item>
+        <item>Помаранчевий</item>
+        <item>Насичений помаранчеви</item>
+        <item>Коричневий</item>
+        <item>Сірий</item>
+        <item>Синьо-сірий</item>
+    </string-array>
+    
+    <string-array name="cpu_clock_options">
+        <item>%</item>
+        <item>Поточне MHz</item>
+        <item>Поточне MHz + (%)</item>
+        <item>Поточне MHz + Максимальне MHz</item>
+        <item>Поточне MHz + Максимальне MHz + (%)</item>
+    </string-array>
+</resources>

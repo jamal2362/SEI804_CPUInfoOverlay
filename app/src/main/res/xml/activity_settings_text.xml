@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/text_options">
+
+        <ListPreference
+            android:defaultValue="jetbrainsmono"
+            android:entries="@array/text_font_options"
+            android:entryValues="@array/text_font_values"
+            android:icon="@drawable/ic_font_24dp"
+            android:key="text_font_key"
+            android:summary="@string/text_font_summary"
+            android:title="@string/text_font" />
+
+        <ListPreference
+            android:defaultValue="12"
+            android:entries="@array/text_size_options"
+            android:entryValues="@array/text_size_values"
+            android:icon="@drawable/ic_size_24dp"
+            android:key="text_size_key"
+            android:summary="@string/text_size_summary"
+            android:title="@string/text_size" />
+
+        <ListPreference
+            android:defaultValue="12"
+            android:entries="@array/text_padding_options"
+            android:entryValues="@array/text_padding_values"
+            android:icon="@drawable/ic_text_padding_24dp"
+            android:key="text_padding_key"
+            android:summary="@string/text_padding_summary"
+            android:title="@string/text_padding" />
+
+    </PreferenceCategory>
+    <PreferenceCategory>
+
+        <ListPreference
+            android:defaultValue="#FFFFFF"
+            android:entries="@array/text_color_left_options"
+            android:entryValues="@array/text_color_left_values"
+            android:icon="@drawable/ic_color_left_24dp"
+            android:key="text_color_left_key"
+            android:summary="@string/text_color_left_summary"
+            android:title="@string/text_color_left" />
+
+        <ListPreference
+            android:defaultValue="#FFFFFF"
+            android:entries="@array/text_color_right_options"
+            android:entryValues="@array/text_color_right_values"
+            android:icon="@drawable/ic_color_right_24dp"
+            android:key="text_color_right_key"
+            android:summary="@string/text_color_right_summary"
+            android:title="@string/text_color_right" />
+
+    </PreferenceCategory>
+    <PreferenceCategory>
+
+        <ListPreference
+            android:defaultValue="start"
+            android:entries="@array/text_align_left_options"
+            android:entryValues="@array/text_align_left_values"
+            android:icon="@drawable/ic_align_left_24dp"
+            android:key="text_align_left_key"
+            android:summary="@string/left_text_alignment_summary"
+            android:title="@string/left_text_alignment" />
+
+        <ListPreference
+            android:defaultValue="start"
+            android:entries="@array/text_align_right_options"
+            android:entryValues="@array/text_align_right_values"
+            android:icon="@drawable/ic_align_right_24dp"
+            android:key="text_align_right_key"
+            android:summary="@string/right_text_alignment_summary"
+            android:title="@string/right_text_alignment" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

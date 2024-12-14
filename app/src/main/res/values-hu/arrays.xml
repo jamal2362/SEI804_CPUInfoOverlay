@@ -1,0 +1,153 @@
+<resources>
+    <string-array name="key_code_labels">
+        <item>Könyvjelző Gomb</item>
+        <item>TV-Guide Gomb</item>
+        <item>Vörös Gomb</item>
+        <item>Zöld Gomb</item>
+        <item>Sárga Gomb</item>
+        <item>Kék Gomb</item>
+        <item>0-ás szám gomb</item>
+        <item>1-es szám gomb</item>
+        <item>2-es szám gomb</item>
+        <item>3-as szám gomb</item>
+        <item>4-es szám gomb</item>
+        <item>5-ös szám gomb</item>
+        <item>6-os szám gomb</item>
+        <item>7-es szám gomb</item>
+        <item>8-as szám gomb</item>
+        <item>9-es szám gomb</item>
+        <item>Nincs</item>
+    </string-array>
+
+    <string-array name="text_color_left_options">
+        <item>Fehér</item>
+        <item>Vörös</item>
+        <item>Rózsaszín</item>
+        <item>Lila</item>
+        <item>Sötétlila</item>
+        <item>Indigókék</item>
+        <item>Kék</item>
+        <item>Világoskék</item>
+        <item>Ciánkék</item>
+        <item>Kékeszöld</item>
+        <item>Zöld</item>
+        <item>Világoszöld</item>
+        <item>Sárgászöld</item>
+        <item>Sárga</item>
+        <item>Borostyán</item>
+        <item>Narancs</item>
+        <item>Sötétnarancs</item>
+        <item>Barna</item>
+        <item>Szürke</item>
+        <item>Kékesszürke</item>
+        <item>Arany</item>
+        <item>Ezüst</item>
+        <item>Rózsaarany</item>
+        <item>Mentazöld</item>
+        <item>Korál</item>
+        <item>Gesztenyebarna</item>
+        <item>Tengerészkék</item>
+        <item>Erdőzöld</item>
+        <item>Fekete</item>
+    </string-array>
+
+    <string-array name="text_color_right_options">
+        <item>Fehér</item>
+        <item>Vörös</item>
+        <item>Rózsaszín</item>
+        <item>Lila</item>
+        <item>Sötétlila</item>
+        <item>Indigókék</item>
+        <item>Kék</item>
+        <item>Világoskék</item>
+        <item>Ciánkék</item>
+        <item>Kékeszöld</item>
+        <item>Zöld</item>
+        <item>Világoszöld</item>
+        <item>Sárgászöld</item>
+        <item>Sárga</item>
+        <item>Borostyán</item>
+        <item>Narancs</item>
+        <item>Sötétnarancs</item>
+        <item>Barna</item>
+        <item>Szürke</item>
+        <item>Kékesszürke</item>
+        <item>Arany</item>
+        <item>Ezüst</item>
+        <item>Rózsaarany</item>
+        <item>Mentazöld</item>
+        <item>Korál</item>
+        <item>Gesztenyebarna</item>
+        <item>Tengerészkék</item>
+        <item>Erdőzöld</item>
+        <item>Fekete</item>
+    </string-array>
+
+    <string-array name="text_align_left_options">
+        <item>Balra</item>
+        <item>Középre</item>
+        <item>Jobbra</item>
+    </string-array>
+
+    <string-array name="text_align_right_options">
+        <item>Balra</item>
+        <item>Középre</item>
+        <item>Jobbra</item>
+    </string-array>
+
+    <string-array name="background_color_left_options">
+        <item>Fekete</item>
+        <item>Fehér</item>
+        <item>Vörös</item>
+        <item>Rózsaszín</item>
+        <item>Lila</item>
+        <item>Sötétlila</item>
+        <item>Indigókék</item>
+        <item>Kék</item>
+        <item>Világoskék</item>
+        <item>Cián</item>
+        <item>Kékeszöld</item>
+        <item>Zöld</item>
+        <item>Világoszöld</item>
+        <item>Sárgászöld</item>
+        <item>Sárga</item>
+        <item>Borostyán</item>
+        <item>Narancs</item>
+        <item>Sötétnarancs</item>
+        <item>Barna</item>
+        <item>Szürke</item>
+        <item>Kékesszürke</item>
+    </string-array>
+
+    <string-array name="background_color_right_options">
+        <item>Fekete</item>
+        <item>Fehér</item>
+        <item>Vörös</item>
+        <item>Rózsaszín</item>
+        <item>Lila</item>
+        <item>Sötétlila</item>
+        <item>Indigókék</item>
+        <item>Kék</item>
+        <item>Világoskék</item>
+        <item>Cián</item>
+        <item>Kékeszöld</item>
+        <item>Zöld</item>
+        <item>Világoszöld</item>
+        <item>Sárgászöld</item>
+        <item>Sárga</item>
+        <item>Borostyán</item>
+        <item>Narancs</item>
+        <item>Sötétnarancs</item>
+        <item>Barna</item>
+        <item>Szürke</item>
+        <item>Kékesszürke</item>
+    </string-array>
+
+    <string-array name="cpu_clock_options">
+        <item>%</item>
+        <item>Jelenlegi MHz</item>
+        <item>Jelenlegi MHz + (%)</item>
+        <item>Jelenlegi MHz + Maximális MHz</item>
+        <item>Jelenlegi MHz + Maximális MHz + (%)</item>
+    </string-array>
+</resources>

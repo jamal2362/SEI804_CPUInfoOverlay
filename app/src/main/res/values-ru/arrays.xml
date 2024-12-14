@@ -1,0 +1,153 @@
+<resources>
+    <string-array name="key_code_labels">
+        <item>Избранное</item>
+        <item>Телегид</item>
+        <item>Красная кнопка</item>
+        <item>Зеленая кнопка</item>
+        <item>Желтая кнопка</item>
+        <item>Голубая кнопка</item>
+        <item>Кнопка 0</item>
+        <item>Кнопка 1</item>
+        <item>Кнопка 2</item>
+        <item>Кнопка 3</item>
+        <item>Кнопка 4</item>
+        <item>Кнопка 5</item>
+        <item>Кнопка 6</item>
+        <item>Кнопка 7</item>
+        <item>Кнопка 8</item>
+        <item>Кнопка 9</item>
+        <item>Без кнопки</item>
+    </string-array>
+
+    <string-array name="text_color_left_options">
+        <item>Белый</item>
+        <item>Красный</item>
+        <item>Розовый</item>
+        <item>Фиолетовый</item>
+        <item>Темно-фиолетовый</item>
+        <item>Индиго</item>
+        <item>Синий</item>
+        <item>Светло-синий</item>
+        <item>Голубой</item>
+        <item>Бирюзовый</item>
+        <item>Зеленый</item>
+        <item>Светло-зеленый</item>
+        <item>Лайм</item>
+        <item>Желтый</item>
+        <item>Янтарь</item>
+        <item>Оранжевый</item>
+        <item>Темно-оранжевый</item>
+        <item>Коричневый</item>
+        <item>Серый</item>
+        <item>Серо-голубой</item>
+        <item>Золотой</item>
+        <item>Серебряный</item>
+        <item>Розовое золото</item>
+        <item>Мятно-зеленый</item>
+        <item>Коралловый</item>
+        <item>Бордовый</item>
+        <item>Темно-синий</item>
+        <item>Зеленый лес</item>
+        <item>Черный</item>
+    </string-array>
+
+    <string-array name="text_color_right_options">
+        <item>Белый</item>
+        <item>Красный</item>
+        <item>Розовый</item>
+        <item>Фиолетовый</item>
+        <item>Темно-фиолетовый</item>
+        <item>Индиго</item>
+        <item>Синий</item>
+        <item>Светло-синий</item>
+        <item>Голубой</item>
+        <item>Бирюзовый</item>
+        <item>Зеленый</item>
+        <item>Светло-зеленый</item>
+        <item>Лайм</item>
+        <item>Желтый</item>
+        <item>Янтарь</item>
+        <item>Оранжевый</item>
+        <item>Темно-оранжевый</item>
+        <item>Коричневый</item>
+        <item>Серый</item>
+        <item>Серо-голубой</item>
+        <item>Золотой</item>
+        <item>Серебряный</item>
+        <item>Розовое золото</item>
+        <item>Мятно-зеленый</item>
+        <item>Коралловый</item>
+        <item>Бордовый</item>
+        <item>Темно-синий</item>
+        <item>Зеленый лес</item>
+        <item>Черный</item>
+    </string-array>
+
+    <string-array name="text_align_left_options">
+        <item>Лево</item>
+        <item>Центр</item>
+        <item>Право</item>
+    </string-array>
+
+    <string-array name="text_align_right_options">
+        <item>Лево</item>
+        <item>Центр</item>
+        <item>Право</item>
+    </string-array>
+
+    <string-array name="background_color_left_options">
+        <item>Черный</item>
+        <item>Белый</item>
+        <item>Красный</item>
+        <item>Розовый</item>
+        <item>Фиолетовый</item>
+        <item>Темно-фиолетовый</item>
+        <item>Индиго</item>
+        <item>Синий</item>
+        <item>Светло-синий</item>
+        <item>Голубой</item>
+        <item>Бирюзовый</item>
+        <item>Зеленый</item>
+        <item>Светло-зеленый</item>
+        <item>Лайм</item>
+        <item>Желтый</item>
+        <item>Янтарь</item>
+        <item>Оранжевый</item>
+        <item>Темно-оранжевый</item>
+        <item>Коричневый</item>
+        <item>Серый</item>
+        <item>Серо-голубой</item>
+    </string-array>
+
+    <string-array name="background_color_right_options">
+        <item>Черный</item>
+        <item>Белый</item>
+        <item>Красный</item>
+        <item>Розовый</item>
+        <item>Фиолетовый</item>
+        <item>Темно-фиолетовый</item>
+        <item>Индиго</item>
+        <item>Синий</item>
+        <item>Светло-синий</item>
+        <item>Голубой</item>
+        <item>Бирюзовый</item>
+        <item>Зеленый</item>
+        <item>Светло-зеленый</item>
+        <item>Лайм</item>
+        <item>Желтый</item>
+        <item>Янтарь</item>
+        <item>Оранжевый</item>
+        <item>Темно-оранжевый</item>
+        <item>Коричневый</item>
+        <item>Серый</item>
+        <item>Серо-голубой</item>
+    </string-array>
+    
+    <string-array name="cpu_clock_options">
+        <item>%</item>
+        <item>Текущее MHz</item>
+        <item>Текущее MHz + (%)</item>
+        <item>Текущее MHz + Макс MHz</item>
+        <item>Текущее MHz + Макс MHz + (%)</item>
+    </string-array>
+</resources>

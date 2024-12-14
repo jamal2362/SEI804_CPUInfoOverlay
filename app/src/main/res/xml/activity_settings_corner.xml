@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/corner_options">
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_rounded_corners_overall_24dp"
+            android:key="rounded_corner_overall_left_key"
+            android:summary="@string/rounded_corners_left_overall_summary"
+            android:title="@string/rounded_corners_left_overall" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_rounded_corners_overall_24dp"
+            android:key="rounded_corner_overall_right_key"
+            android:summary="@string/rounded_corners_right_overall_summary"
+            android:title="@string/rounded_corners_right_overall" />
+
+    </PreferenceCategory>
+    <PreferenceCategory>
+
+        <ListPreference
+            android:defaultValue="18"
+            android:entries="@array/rounded_corners_left_options"
+            android:entryValues="@array/rounded_corners_left_values"
+            android:icon="@drawable/ic_rounded_corners_left_24dp"
+            android:key="rounded_corners_left_key"
+            android:summary="@string/rounded_corners_left_summary"
+            android:title="@string/rounded_corners_left" />
+
+        <ListPreference
+            android:defaultValue="18"
+            android:entries="@array/rounded_corners_right_options"
+            android:entryValues="@array/rounded_corners_right_values"
+            android:icon="@drawable/ic_rounded_corners_right_24dp"
+            android:key="rounded_corners_right_key"
+            android:summary="@string/rounded_corners_right_summary"
+            android:title="@string/rounded_corners_right" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

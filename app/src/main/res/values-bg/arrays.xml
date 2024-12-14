@@ -1,0 +1,153 @@
+<resources>
+    <string-array name="key_code_labels">
+        <item>Бутон за отметка</item>
+        <item>Бутон TV Guide</item>
+        <item>Червен бутон</item>
+        <item>Зелен бутон</item>
+        <item>Жълт бутон</item>
+        <item>Син бутон</item>
+        <item>Бутон 0</item>
+        <item>Бутон 1</item>
+        <item>Бутон 2</item>
+        <item>Бутон 3</item>
+        <item>Бутон 4</item>
+        <item>Бутон 5</item>
+        <item>Бутон 6</item>
+        <item>Бутон 7</item>
+        <item>Бутон 8</item>
+        <item>Бутон 9</item>
+        <item>Нито един</item>
+    </string-array>
+
+    <string-array name="text_color_left_options">
+        <item>Бял</item>
+        <item>Червен</item>
+        <item>Розов</item>
+        <item>Пурпурен</item>
+        <item>Тъмно пурпурен</item>
+        <item>Индиго</item>
+        <item>Синьо</item>
+        <item>Светло синьо</item>
+        <item>Циан</item>
+        <item>Сивкаво</item>
+        <item>Зелен</item>
+        <item>Светло зелен</item>
+        <item>Лайм</item>
+        <item>Жълто</item>
+        <item>Amber</item>
+        <item>Оранжево</item>
+        <item>Тъмно оранжево</item>
+        <item>Кафяв</item>
+        <item>Сив</item>
+        <item>Синьо сиво</item>
+        <item>Злато</item>
+        <item>Сребро</item>
+        <item>Розово злато</item>
+        <item>Ментово зелено</item>
+        <item>Корал</item>
+        <item>Maroon</item>
+        <item>Небесно синьо</item>
+        <item>Горско зелено</item>
+        <item>Черно</item>
+    </string-array>
+
+    <string-array name="text_color_right_options">
+        <item>Бял</item>
+        <item>Червен</item>
+        <item>Розов</item>
+        <item>Пурпурен</item>
+        <item>Тъмно пурпурен</item>
+        <item>Индиго</item>
+        <item>Синьо</item>
+        <item>Светло синьо</item>
+        <item>Циан</item>
+        <item>Сивкаво</item>
+        <item>Зелен</item>
+        <item>Светло зелен</item>
+        <item>Лайм</item>
+        <item>Жълто</item>
+        <item>Amber</item>
+        <item>Оранжево</item>
+        <item>Тъмно оранжево</item>
+        <item>Кафяв</item>
+        <item>Сив</item>
+        <item>Синьо сиво</item>
+        <item>Злато</item>
+        <item>Сребро</item>
+        <item>Розово злато</item>
+        <item>Ментово зелено</item>
+        <item>Корал</item>
+        <item>Maroon</item>
+        <item>Небесно синьо</item>
+        <item>Горско зелено</item>
+        <item>Черно</item>
+    </string-array>
+
+    <string-array name="text_align_left_options">
+        <item>Ляво</item>
+        <item>Център</item>
+        <item>Дясно</item>
+    </string-array>
+
+    <string-array name="text_align_right_options">
+        <item>Ляво</item>
+        <item>Център</item>
+        <item>Дясно</item>
+    </string-array>
+
+    <string-array name="background_color_left_options">
+        <item>Черен</item>
+        <item>Бял</item>
+        <item>Червен</item>
+        <item>Розов</item>
+        <item>Пурпурен</item>
+        <item>Тъмно пурпурно</item>
+        <item>Индиго</item>
+        <item>Син</item>
+        <item>Светло синьо</item>
+        <item>Циан</item>
+        <item>Сивкав</item>
+        <item>Зелен</item>
+        <item>Светло зелен</item>
+        <item>Лайм</item>
+        <item>Жълт</item>
+        <item>Amber</item>
+        <item>Оранжево</item>
+        <item>Тъмно ораннжево</item>
+        <item>Кафяв</item>
+        <item>Сив</item>
+        <item>Синьо сив</item>
+    </string-array>
+
+    <string-array name="background_color_right_options">
+        <item>Черен</item>
+        <item>Бял</item>
+        <item>Червен</item>
+        <item>Розов</item>
+        <item>Пурпурен</item>
+        <item>Тъмно пурпурно</item>
+        <item>Индиго</item>
+        <item>Син</item>
+        <item>Светло синьо</item>
+        <item>Циан</item>
+        <item>Сивкав</item>
+        <item>Зелен</item>
+        <item>Светло зелен</item>
+        <item>Лайм</item>
+        <item>Жълт</item>
+        <item>Amber</item>
+        <item>Оранжево</item>
+        <item>Тъмно ораннжево</item>
+        <item>Кафяв</item>
+        <item>Сив</item>
+        <item>Синьо сив</item>
+    </string-array>
+
+    <string-array name="cpu_clock_options">
+        <item>%</item>
+        <item>Текущ MHz</item>
+        <item>Текущ MHz + (%)</item>
+        <item>Текущ MHz + Максимален MHz</item>
+        <item>Текущ MHz + Максимален MHz + (%)</item>
+    </string-array>
+</resources>

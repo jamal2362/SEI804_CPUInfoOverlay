@@ -1,0 +1,50 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+}
+
+android {
+    namespace 'com.jamal2367.cpuinfooverlay'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'com.jamal2367.cpuinfooverlay'
+        minSdk 34
+        targetSdk 34
+        versionCode 10
+        versionName '1.0'
+        resConfigs 'bg', 'en', 'de', 'hu', 'ru', 'uk'
+        setProperty('archivesBaseName', 'SEI804_CPUInfoOverlay_' + versionName)
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            shrinkResources false
+            crunchPngs false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+
+        release {
+            minifyEnabled true
+            shrinkResources true
+            crunchPngs true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.tananaev:adblib:1.3'
+    implementation 'com.google.android.material:material:1.12.0'
+    implementation 'androidx.preference:preference-ktx:1.2.1'
+}
